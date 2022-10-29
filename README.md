@@ -94,7 +94,7 @@ Testing
 
 The JUnit test to test which also uses Mockito to test the functionality of the app failed to delete a student from the database. 
 
-<img src=" https://user-images.githubusercontent.com/99997825/198855828-13f5a374-a508-4b19-8861-d947c16ced15.png" width="200" height="200">
+<img src="https://user-images.githubusercontent.com/99997825/198855828-13f5a374-a508-4b19-8861-d947c16ced15.png" width="200" height="200">
 
 ________________________________________________________________________________________________________
 
