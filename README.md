@@ -7,10 +7,15 @@ Operations
 Student
 
 •	Add new student 
+
 •	View student
+
 •	Update student 
+
 •	Delete student 
+
 •	View student by ID
+
 •	View student by name 
 
 Course
