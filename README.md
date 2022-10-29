@@ -2,6 +2,7 @@
 
 This is a backend University Registry which is still a work in progress. It was created using SpringToolsSuite4, MySQL and Postman which uses CRUD functionality (Create, Read, Update, Delete) to maintain the application. Its purpose is to enable a university to access their student’s data e.g., personal and course information. There are two tables, 1) students and 2) courses, and the relationship between the tables is one student can do many courses. 
 
+
 Operations
 
 Student
@@ -18,16 +19,23 @@ Student
 
 •	View student by name 
 
+
 Course
 
 •	Add new course 
+
 •	View course
+
 •	Update course
+
 •	Delete course
+
 •	View course by ID
+
 •	View course by name 
+
 •	View course by type
-•	
+
 
 Project Structure:
 
