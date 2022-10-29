@@ -3,6 +3,7 @@
 This is a backend University Registry which is still a work in progress. It was created using SpringToolsSuite4, MySQL and Postman which uses CRUD functionality (Create, Read, Update, Delete) to maintain the application. Its purpose is to enable a university to access their student’s data e.g., personal and course information. There are two tables, 1) students and 2) courses, and the relationship between the tables is one student can do many courses. 
 
 
+
 Operations
 
 Student
@@ -18,6 +19,7 @@ Student
 •	View student by ID
 
 •	View student by name 
+
 
 
 Course
@@ -37,17 +39,14 @@ Course
 •	View course by type
 
 
+
 Project Structure:
 
 •	ERD Diagram displaying database tables and their connection/relationship through the course ID below
- 
 
 •	SpringToolsSuite Package Explorer for project below
-
  
 •	SpringToolsSuite code pan displaying the student controller class which displays the Postman url commands below 
-
- 
 
 •	Postman API displaying the addition of a student to the database below 
  
@@ -56,9 +55,11 @@ Project Structure:
 SpringTools Execution:
 
 •	This project was executed on the tomcat server using port number 8080
+
 •	The server must remain free to avoid unnecessary errors of conflict 
 
 •	Click on the project name to open then right click in the code pan, scroll down to Run As and choose either Java Application or SpringBoot App. Both options give the same result, however, if you want your output in the console to be colour coded for better visualisation then choose to run as SpringBoot App. 
+
 
 
 Testing
