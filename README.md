@@ -5,11 +5,9 @@ This is a backend University Registry which is still a work in progress. It was 
 ________________________________________________________________________________________________________
 
 
-<br>
+<b>Operations </b>
 
-Operations
-
-Student
+<b>Student<b/>
 
 •	Add new student 
 
@@ -25,7 +23,7 @@ Student
 
 <br>
 
-Course
+<b>Course<b/>
 
 •	Add new course 
 
@@ -41,12 +39,13 @@ Course
 
 •	View course by type
 
+ 
 ________________________________________________________________________________________________________
 
 
 <br>
 
-Project Structure:
+<b> Project Structure: </b>
 
 •	SpringToolsSuite Package Explorer for project below
 
@@ -68,12 +67,13 @@ Project Structure:
  
 <img src="https://user-images.githubusercontent.com/99997825/198855822-bdc352d8-e216-48dd-96fc-02fa6ecc2fd6.png" width="200" height="200">
 
+ 
 ________________________________________________________________________________________________________
 
 
 <br>
 
-SpringTools Execution:
+<b> SpringTools Execution: </b>
 
 •	This project was executed on the tomcat server using port number 8080
 
@@ -85,21 +85,23 @@ SpringToolsSuite Instructions For Use
 
 •	Click on the project name to open then right click in the code pan, scroll down to Run As and choose either Java Application or SpringBoot App. Both options give the same result, however, if you want your output in the console to be colour coded for better visualisation then choose to run as SpringBoot App. 
 
+ 
 ________________________________________________________________________________________________________
 
 
 <br>
 
-Testing
+<b>Testing</b>
 
 The JUnit test to test which also uses Mockito to test the functionality of the app failed to delete a student from the database. 
 
 <img src="https://user-images.githubusercontent.com/99997825/198855828-13f5a374-a508-4b19-8861-d947c16ced15.png" width="200" height="200">
 
+ 
 ________________________________________________________________________________________________________
 
 <br>
 
-Key Takeaway
+<b>Key Takeaway</b>
 
 I was able to understand how the packages and classes, MySQL and Postman all work together to bring about the functionality of the project. As it is, I would have liked to run all my API and JUnit tests successfully at the time of submission. Nevertheless, I shall continue working on my project to understand it further then I will add more tables and tests in future. Although learning Java was a stressful experience due to coming into it with zero previous knowledge, I can still say that it became enjoyable as the weeks went by even though it was and still is very challenging.
