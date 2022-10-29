@@ -57,5 +57,3 @@ The JUnit test to test which also uses Mockito to test the functionality of the 
 Key Takeaway
 
 I was able to understand how the packages and classes, MySQL and Postman all work together to bring about the functionality of the project. As it is, I would have liked to run all my API and JUnit tests successfully at the time of submission. Nevertheless, I shall continue working on my project to understand it further then I will add more tables and tests in future. Although learning Java was a stressful experience due to coming into it with zero previous knowledge, I can still say that it became enjoyable as the weeks went by even though it was and still is very challenging.
-
-![image](https://user-images.githubusercontent.com/99997825/198854646-26efa1cd-da92-4f98-83d9-e52a8e272d7a.png)
