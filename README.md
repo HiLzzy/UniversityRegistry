@@ -8,7 +8,7 @@ This is a backend University Registry which is still a work in progress. It was 
 ## 
 <h3>TOOLS USED:</h3>
 
- <strong>1 -</strong>  <strong>SpringToolsSuite4</strong>: To create the project
+ <strong>1 -</strong>  <strong>SpringToolsSuite4 Framework</strong>: To create the project
  
   <strong>2 -</strong>  <strong>MySQL Workbench</strong>: To build the database
  
